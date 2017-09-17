@@ -1,0 +1,5 @@
+{
+	"imageDirectory" : "\\\\path\\to\\your\\images_directory\\",
+	"nbCategories" : "24",
+	"imageFormat" : ".jpg"
+}
